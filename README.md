@@ -20,8 +20,7 @@ This project is a simple, responsive contact form built using React, TypeScript,
 
 ## Installation
 
-To run this project locally, follow these steps:
-
+To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Gadisa16/Contact-Form-by-react-hook-form.git
