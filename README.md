@@ -29,5 +29,4 @@ To run this project locally:
 ### screenshots
 # This is what you will see if you run the app: ![...](./src/assets/Screenshot%20(846).png)
 # This is how the form respond, when fields are not filled: ![...](./src/assets/Screenshot%20(847).png)
-# when invalid form of email is entered: ![...](./src/assets/Screenshot%20(848).png)
 # when submitted successfully: ![...](./src/assets/Screenshot%20(849).png)
